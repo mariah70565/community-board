@@ -26,13 +26,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='<div>
+<div>
     <a href="https://www.loom.com/share/58cb873a4d6746ebb3819dd2a994022f">
+      <p>Loom Message - 1 March 2024 - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/58cb873a4d6746ebb3819dd2a994022f">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/58cb873a4d6746ebb3819dd2a994022f-with-play.gif">
     </a>
-  </div>' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+  </div>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
