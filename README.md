@@ -26,11 +26,17 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='file:///private/var/folders/qm/35t952mx2_s1rcn3kgqn51c40000gn/T/5f5cce6e5763abed28046945c74b75ef/Kapture%202024-03-01%20at%2023.03.36.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='<div>
+    <a href="https://www.loom.com/share/58cb873a4d6746ebb3819dd2a994022f">
+    </a>
+    <a href="https://www.loom.com/share/58cb873a4d6746ebb3819dd2a994022f">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/58cb873a4d6746ebb3819dd2a994022f-with-play.gif">
+    </a>
+  </div>' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-[Kap](https://getkap.co/) for macOS
+[Loom](https://www.loom.com) for macOS
 
 ## Notes
 
