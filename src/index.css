@@ -1,0 +1,67 @@
+h1 {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 75px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+.FoodList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.FoodCard {
+  background-color: white;
+  /* border: 2px solid rgb(184, 172, 146); */
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  width: 300px;
+  max-width: 100%;
+  /* height: auto; */
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, .3);
+}
+
+.FoodCard img {
+  /* width: 100%; Make the image fill the width of the card */
+  height: auto; /* Make the image fill the height of the card */
+  object-fit: cover; /* Maintain aspect ratio and fill the container */
+  border-radius: 8px;
+}
+
+.FoodCard h3, .FoodCard h4 {
+  margin: 5px 0;
+}
+
+.FoodCard h3 {
+  /* font-weight: bolder; */
+  font-size: 23px;
+}
+
+.FoodCard h4 {
+  margin-top: auto;
+  font-weight: normal;
+  font-size: 16px;
+}
+
+.FoodCard button {
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  width: 115px;
+  align-self: center;
+  background-color: rgb(233, 233, 233);
+  border-radius: 6px;
+}
+
+.FoodCard button:hover {
+  font-weight: bold;
+  background-color: rgb(196, 196, 196);
+  cursor: pointer;
+}
